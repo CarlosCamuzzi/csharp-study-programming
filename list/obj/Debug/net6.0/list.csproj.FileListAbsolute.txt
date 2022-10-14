@@ -1,0 +1,15 @@
+C:\workspace\csharp-study-programming\list\bin\Debug\net6.0\list.exe
+C:\workspace\csharp-study-programming\list\bin\Debug\net6.0\list.deps.json
+C:\workspace\csharp-study-programming\list\bin\Debug\net6.0\list.runtimeconfig.json
+C:\workspace\csharp-study-programming\list\bin\Debug\net6.0\list.dll
+C:\workspace\csharp-study-programming\list\bin\Debug\net6.0\list.pdb
+C:\workspace\csharp-study-programming\list\obj\Debug\net6.0\list.csproj.AssemblyReference.cache
+C:\workspace\csharp-study-programming\list\obj\Debug\net6.0\list.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\csharp-study-programming\list\obj\Debug\net6.0\list.AssemblyInfoInputs.cache
+C:\workspace\csharp-study-programming\list\obj\Debug\net6.0\list.AssemblyInfo.cs
+C:\workspace\csharp-study-programming\list\obj\Debug\net6.0\list.csproj.CoreCompileInputs.cache
+C:\workspace\csharp-study-programming\list\obj\Debug\net6.0\list.dll
+C:\workspace\csharp-study-programming\list\obj\Debug\net6.0\refint\list.dll
+C:\workspace\csharp-study-programming\list\obj\Debug\net6.0\list.pdb
+C:\workspace\csharp-study-programming\list\obj\Debug\net6.0\list.genruntimeconfig.cache
+C:\workspace\csharp-study-programming\list\obj\Debug\net6.0\ref\list.dll
